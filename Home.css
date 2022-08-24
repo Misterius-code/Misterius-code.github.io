@@ -11,13 +11,13 @@
 
 #MA{
   height: 100px;
-  width:100px;
+  width:80%;
   background: url("images/logoportfolio.png") no-repeat;
 
 }
 #MA:hover{
   height: 100px;
-  width:800px;
+  width:80%;
   background: url("images/MAfull.png") no-repeat;
 
 
